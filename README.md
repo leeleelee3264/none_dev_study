@@ -1,5 +1,12 @@
 # english_study
 ## 11월 목표.. 오픽 AL! 
+[오픽일정](https://m.opic.or.kr/opics/servlet/controller.opic.site.receipt.AnnualScheduleServlet?p_process=select-list-mobile&p_tab=opic)
+### 공부 전략 
+1. 무조건 11월 21-22 구간에 시험을 본다 (2주 남음) / 하루에 2시간씩 공부! 
+2. 모의고사 보면서 목소리 녹음하기 (하루에 모의고사 1개) 
+3. 녹음하고 들어보고 고쳐서 다시 녹음하기 반복 (2회)
+4. 최종본은 스크립트로 만들어서 여기 repo의 script 로 만들어 기록 
+
 
 ### 공부법 리서치 
 + 무조건 녹음을 해가며 공부하기
@@ -41,7 +48,7 @@
 |a little bit|..|..|
 |pretty|..|..|
 |like|..|..|
-|Occasinally|테스트2|테스트3|
+|Occasinally|..|..|
 
 # 자격증 study 
 ## 목표하는 자격증 List 
