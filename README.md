@@ -17,6 +17,7 @@
 + 유튜브에 오픽 모의고사 치면 초시계까지 보여주면서 모의고사를 볼 수 있게 해놨다.  
 + 말실수를 했다 하면 그대로 지르지말고 살짝 쿠션을 넣어서 다시 이어줘야 듣는 사람이 이해가 된다. 
 + <U>억양으로 강세</U>를 주는 것도 아주 굿 (Of course there IS another option, Of course there is ANOTHER option)
++ 처음에 생각을 할 때 그냥 조용히 있지 말고 wow what an interesting question~ 이러거나 질문에 나온 단어 한 번 말해라. Uhm.. coffee.. 이런 
 
 
 ### 오픽 시험 규칙 리서치 
@@ -49,6 +50,27 @@
 |pretty|..|..|
 |like|..|..|
 |Occasinally|..|..|
+|I would say/I would have to say|..|..|
+|It's funny|..|..|
+|if you know what i mean|..|..|
+|pricey|..|..|
+|It's interesting|..|..|
+|when i wan in high school|..|..|
+|I think ~ I thought|..|..|
+|Wow what a question!|..|..|
+|More Known for|..|..|
+
+
+### 주의할 표현
+|단어|이유|
+|------|---|
+|I'd like to talk about|문어체|
+|In addition/furthemore|문어체|
+|..|..|
+|..|..|
+|..|..|
+|..|..|
+|..|..|
 
 # 자격증 study 
 ## 목표하는 자격증 List 
